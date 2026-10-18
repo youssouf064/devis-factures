@@ -1,0 +1,5 @@
+streamlit
+pandas
+weasyprint
+pillow
+num2words
